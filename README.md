@@ -20,9 +20,11 @@ npx shadcn-ui@latest init
 `npx shadcn-ui@latest add label`
 `npx shadcn-ui@latest add input`
 `npx shadcn-ui@latest add textarea`
+`npx shadcn-ui@latest add dropdown-menu`
 
 ### Validation
 
 Use ZOD for validation `https://www.youtube.com/watch?v=L6BE-U3oy80`
 
 Simply run `npm i zod`
+https://youtu.be/iqrgggs0Qk0?si=o2oICHaxGC46J6lk&t=3874
